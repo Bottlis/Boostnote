@@ -26,8 +26,8 @@ Please be thorough, issues we can reproduce are easier to fix!
 
 # Environment
 
-- Boostnote Version: <!-- 0.x.x -->
-- OS name and name: <!-- Windows 10 / Ubuntu 18.04 / etc -->
+- Boostnote version: <!-- 0.x.x -->
+- OS version and name: <!-- Windows 10 / Ubuntu 18.04 / etc -->
 
 <!--
 Love Boostnote? Please consider supporting us on IssueHunt:
