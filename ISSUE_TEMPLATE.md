@@ -11,13 +11,13 @@ If your issue is regarding the new Boost Note.next, please open an issue in the 
 # Expected behavior
 
 <!--
-Let us know what you think should happen!
+Let us know what you think should happen.
 -->
 
 # Steps to reproduce
 
 <!-- 
-Please be thorough, issues we can reproduce are easier to fix!
+Please be thorough, issues we can reproduce are easier to fix.
 -->
 
 1. 
